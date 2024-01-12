@@ -89,4 +89,8 @@ These are the two interactive dashboards that were created in Tableau. The map l
 
 <img width="1116" alt="Screenshot 2024-01-11 195728" src="https://github.com/hasham-zahid/Data-Analysis-of-Global-Mental-Health-Disorders/assets/148837970/dd060250-74e6-406a-8838-846b81913fa0">
 
+### Next Steps
 
+- Obtain more similar data and compile into more dashboards and visulizations, which can be easily understood.
+- Differences between regions, GDP per capita (relating to mental health), and how people in various countries deal with mental health (this will require more data that is not a part of this dataset)
+- A regression machine learning algorithm predicting suicide rates per 100k, this will help organizations and governments to tackle mental health if rates are rising or decreasing in certain areas.
