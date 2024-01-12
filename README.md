@@ -18,6 +18,13 @@
 
 ### Introduction to the Project
 
+In many countries throughout the world, many people with a various mental illnesses go undiagnosed, leading lives with no support for overcoming these issues. Mental health is usually given less attention and support than it deserves or needs, and even when diagnosed, treatment is not of the best quality. Data can be help with this issue. With enough reliable data, the burden of mental health disease can be reduced, increasing effectiveness of treatments and screening tests.
+
+Mental illness can be defined as psychological symptoms and behaviours, rather than biological tests. This subjective nature can vary vastly between country to country, hospital to hospital, or even doctor to doctor, and diagnosis becomes difficult. The purpose of this analysis is to offer insight into various mental illnesses such as schizophrenia, bipolar disorder, eating disorders, substance abuse, and depression. It will also cover suicide rates and depressive disorders rates. All the data is comprised from 1990-2017, for almost all countries in the world (apart from a few small states). 
+
+The data used in this study was obtained from [https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder]. This is just a uncleaned compilation of multiple different data sets, which were obtained from Our World In Data and compiled together. The data is separated into 4 tables, with 108533 observations and 10 features (there are more features, but the tables are stacked, so the data cannot be accessed or understood without cleaning the raw dataset). The dataset was cleaned using R. The 4 tables were separated and cleaned individually, and then finally merged together using Excel, giving a combined final working dataset with 5460 observations and 16 features. All missing values were handled, and duplicates were removed. Outliers were kept as this is country data and not individual data. The working dataset was then used to run some queries in SQL for additional insights into the data. Lastly, two interactive dashboards were created in Tableau to understand and interpret the data. One was a global map showcasing the prevalence, in percentages, of the various mental health disorders, the year, and the country. The other was a scatterplot, illustrating the differences between mental health of women and men in various countries and the year. More information is included in the following sections.
+
+
 ### Dataset Information and Cleaning (R)
 
 **The Data, Attribute Information and Cleaning Process** 
