@@ -15,6 +15,7 @@
 4. Correlation Matrix
 5. Some Insights into the Data (SQL)
 6. Interactive Dashboards (Tableau)
+7. Next Steps
 
 ### Introduction to the Project
 
