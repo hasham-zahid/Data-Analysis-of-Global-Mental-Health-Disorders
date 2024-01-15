@@ -38,9 +38,9 @@ The dataset is messy because it is 4 different tables in 1 csv file without any 
 
 **Note** All tables share the first few columns with each other. The attributes shared are:
 
-Entity: Unique identifier for each country or region included in the data set.
-Code: Unique code associated with an Entity/Country or region included in the data set.
-Year: Year that the data about that particular Entity/Country was collected.
+- Entity: Unique identifier for each country or region included in the data set.
+- Code: Unique code associated with an Entity/Country or region included in the data set.
+- Year: Year that the data about that particular Entity/Country was collected.
 
 After this, the tables have different features.
 
